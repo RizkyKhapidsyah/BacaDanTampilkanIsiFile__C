@@ -1,0 +1,4 @@
+==============
+FileContoh.txt
+==============
+Ini adalah file contoh yang dibaca dan ditampilkan ke layar menggunakan C
